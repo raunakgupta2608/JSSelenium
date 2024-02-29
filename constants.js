@@ -1,0 +1,4 @@
+// export const APP_URL = "https://app-cus-myfracht-web-qa-001.azurewebsites.net/";
+
+// export const APP_DIRECT_URL =
+//   "https://myfracht.b2clogin.com/myfracht.onmicrosoft.com/b2c_1a_signup_signin/oauth2/v2.0/authorize?client_id=b7064dc7-66ff-4245-bbea-0dbb0cd0eb4c&scope=https%3A%2F%2Fmyfracht.onmicrosoft.com%2F4528f326-07d1-46f8-8344-a5156c749891%2Faccess_as_user%20openid%20profile%20offline_access&redirect_uri=https%3A%2F%2Fapp-cus-myfracht-web-qa-001.azurewebsites.net&client-request-id=8acc898e-b350-469d-bca6-01771595c654&response_mode=fragment&response_type=code&x-client-SKU=msal.js.browser&x-client-VER=2.32.0&client_info=1&code_challenge=82oNvuqjfMkr4bnr7fEgSaLj-_I7OjjvQnQHzD0Ic7s&code_challenge_method=S256&prompt=login&nonce=c06ba548-301d-4f8d-9216-9647ec7f293e&state=eyJpZCI6IjU0YTViMTc4LTlhOWEtNDk0MS1iMmFmLTc1MGMwMGQxMThmNiIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3D";

@@ -1,0 +1,2 @@
+Command to run the test : 
+    node tests/CreateShipment/testingFormElements.js
